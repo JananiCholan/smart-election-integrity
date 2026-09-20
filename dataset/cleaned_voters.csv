@@ -1,0 +1,31 @@
+voter_id,name,date_of_birth,gender,address,constituency,phone,voting_status
+V001,arun kumar,1998-05-12,male,anna nagar,chennai central,9000000001,no
+V002,priya devi,1999-08-21,female,kk nagar,madurai central,9000000002,no
+V003,ramesh kumar,1975-01-03,male,fairlands,salem north,9000000003,no
+V004,divya raj,2000-11-17,female,gandhipuram,coimbatore central,9000000004,no
+V005,karthik s,1997-04-25,male,adyar,chennai south,9000000005,no
+V006,meena ravi,1989-07-14,female,rs puram,coimbatore north,9000000006,no
+V007,suresh kumar,1955-06-04,male,t nagar,chennai central,9000000007,no
+V008,anitha devi,1995-09-30,female,mattuthavani,madurai central,9000000008,no
+V009,vijay anand,1988-02-19,male,hasthampatti,salem north,9000000009,no
+V010,lakshmi priya,1996-12-11,female,saibaba colony,coimbatore north,9000000010,no
+V011,rahul kumar,2001-03-10,male,velachery,chennai south,9000000011,no
+V012,naveen raj,1994-06-23,male,anna nagar,chennai central,9000000012,no
+V013,sanjana rao,2002-01-15,female,kk nagar,madurai central,9000000013,no
+V014,mohan das,1978-10-08,male,fairlands,salem north,9000000014,no
+V015,pooja sharma,1999-05-27,female,adyar,chennai south,9000000015,no
+V016,aravind kumar,1993-03-18,male,rs puram,coimbatore north,9000000016,no
+V017,geetha ravi,1985-11-02,female,t nagar,chennai central,9000000017,no
+V018,manoj kumar,1990-08-16,male,mattuthavani,madurai central,9000000018,no
+V019,swetha raj,1998-02-28,female,hasthampatti,salem north,9000000019,no
+V020,ajay kumar,1996-07-09,male,saibaba colony,coimbatore north,9000000020,no
+V021,r kumar,2001-03-10,male,velachery,chennai south,9000000011,no
+V022,deepa devi,1997-10-21,female,anna nagar,chennai central,9000000022,no
+V023,harish anand,1987-04-12,male,kk nagar,madurai central,9000000023,no
+V024,neha rani,2000-09-05,female,fairlands,salem north,9000000024,no
+V025,santhosh kumar,1992-12-29,male,adyar,chennai south,9000000025,yes
+V026,keerthana s,1999-06-13,female,rs puram,coimbatore north,9000000026,no
+V027,suresh kumar,1955-06-04,male,t nagar,chennai central,9000000007,no
+V028,rohit das,1986-01-22,male,mattuthavani,madurai central,9000000028,no
+V029,anjali rao,1998-11-19,female,hasthampatti,salem north,9000000029,no
+V030,varun raj,1995-03-07,male,saibaba colony,coimbatore north,9000000030,no
