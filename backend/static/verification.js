@@ -12,13 +12,9 @@ voterSearch.addEventListener("input", async function () {
 
     try {
 
-        const votersResponse = await fetch(
-            "http://127.0.0.1:5000/voters"
-        );
+        const votersResponse = await fetch("/voters");
 
-        const riskResponse = await fetch(
-            "http://127.0.0.1:5000/risk-report"
-        );
+        const riskResponse = await fetch("/risk-report");
 
         const voters = await votersResponse.json();
         const riskData = await riskResponse.json();
